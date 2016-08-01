@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Jie Wang's Research</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<div id="wrapper">
+<h1><a href="/"></a></h1>
+<ul id="nav">
+  <li class="b"><a href="./index.html">Home</a></li>
+  <li class="a"><a href="./research.html">Research</a></li>
+  <li class="d"><a href="./publication.html">Publications</a></li>
+  <li class="c"><a href="./Jie_Wang_CV.pdf" target="_blank">CV</a></li>
+</ul>
+
+<div id="body">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="inner">
+
+<table align="center" cellspacing="20" cellpadding="20" border="0" width="100%">
+  <tbody>
+    <tr>
+      <td><img src="images/portrait.jpg" width="190" height="220"
+        alt="My photo" class="center" align="middle" /></td>
+      <td><h1>Jie Wang </h1>
+        <br />
+        <span style="font-size: 12pt">Postdoctral Research Assistant</span> 
+
+        <p><a href="http://engineering.asu.edu/cidse/">Computer Science and
+        Engineering</a><br />
+        <a href="http://engineering.asu.edu/cidse/">School of Computing,
+        Informatics, and Decision System Engineering</a></p>
+
+        <p style="line-height:1em;font-size: 10pt"><a
+        href="http://www.biodesign.asu.edu/research/research-centers/evolutionary-medicine-and-informatics">Center
+        for Evolutionary Medicine and Informatics</a><br />
+        <a href="http://www.biodesign.asu.edu/">The Biodesign Institute</a></p>
+
+        <p><a href="www.asu.edu" style="font-size: 10pt">Arizona State
+        University</a><br />
+        </p>
+
+        <p><strong>Email</strong>:  <a
+        href="mailto:jiewangustc@gmail.com">jie.wang.2@asu.edu</a></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<!-- <div id="dividerx"><img src="images/divider_cut.gif" width="28" height="12" alt="" /></div> -->
+<hr />
+
+<div id="boxes">
+<h1>Research Overview</h1>
+
+<p>My general research interests involve a wide range of interdisciplinary
+topics, e.g. <em>data mining</em>, <em>video and image processing</em>, and
+<em>mathematical biology</em>. The following thoughts motivate the main body of
+my research:</p>
+<ol id="ResearchInterestsList">
+  <li>Can we continuously embed any data set into a metric space which best
+    captures the data's intrinsic characteristics and preserves its topological
+    structure? </li>
+  <li>How can we make use of different cues to approximate human perception in
+    recognizing meaningful structures, objects, <em>etc.</em>?</li>
+  <li>What are the geometrical properties of cell membrane when the cell
+    reaches equilibrium state?</li>
+</ol>
+<hr />
+
+<div id="ProjectsDemo">
+<h1><a name="ProjectsDemo">Projects Demo</a></h1>
+<hr class="HruleDot" />
+
+<h2>VCells for Superpixels</h2>
+
+<p class="center"><img src="images/superpixelHuman.png" width="580"
+height="260" alt="" /></p>
+
+<p align="left">Superpixels by (a) VCells, (b) Turbopixels, (c) Ncuts, (d)
+local variation, (e) Mean shift and (f) Watershed. Images (b) to (f) are from
+A. Levinshtein <em>et al.</em> 2009. </p>
+
+<p align="left">VCells is capable to provide high quality superpixels which are
+comparable to Turbopixels, Ncuts <em>etc.</em>, which remains a very low
+computational cost. For details, please read the <a
+href="VCells.pdf">manuscript.</a></p>
+<hr class="HruleDot" />
+
+<h2>Locan variation and edge weighted centroidal Voronoi tessellation
+(LVEWCVT)</h2>
+
+<table align="center">
+  <tbody>
+    <tr>
+      <td><img src="images/vessel.png" width="103" height="131" alt="" /></td>
+      <td><img src="images/vesselCVT.png" width="103" height="131" alt=""
+      /></td>
+      <td><img src="images/vesselEWCVT.png" width="103" height="131" alt=""
+      /></td>
+      <td><img src="images/vessel.gif" width="103" height="131" alt="" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="left">The original image (left-most one) is a CT image of vessel. The
+middel-left image is the segmentation result by classic CVT and the
+middel-right one is by edge weighted centroidal Voronoi tessellation (EWCVT).
+The right-most image is an animation of the segmentation process by LVEWCVT.</p>
+
+<p align="left">Classic CVT introduces some noise data in block form. Although
+EWCVT results in pretty smooth boundaries, it fails to correctly identify the
+vessel. For details, please read the <a href="lvewcvt.pdf">manuscript.</a></p>
+<hr class="HruleDot" />
+
+<h2>Edge weighted centroidal Voronoi tessellation (EWCVT)</h2>
+
+<table align="center">
+  <tbody>
+    <tr>
+      <td><img src="images/europe.png" width="139" height="148" alt="" /></td>
+      <td><img src="images/europeCVT.png" width="139" height="148" alt=""
+      /></td>
+      <td><img src="images/europe.gif" width="139" height="147" alt="" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="left">The left image is "Europe-at-night". The middel image is the
+segmentation result by classic CVT and the right one is an animation of the
+segmentation process by EWCVT. We can see, as expected, classic CVT is very
+sensitive to noise, i.e., it extracts all of the light spots but fails to
+identify the Europe landmass and Atlantic Ocean. For details, please refer to
+our paper: <a
+href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5109687&amp;tag=1">An
+Edge-Weighted Centroidal Voronoi Tessellation Model for Image Segmentation.
+</a></p>
+</div>
+</div>
+<!-- end boxes -->
+<hr />
+
+<div id="CopyRight">
+Last modified: Mar 15, 2012. Copyright © Jie Wang, 2011 - 2012. All rights
+reserved. </div>
+</div>
+</div>
+</div>
+</div>
+<!-- end .inner -->
+</div>
+<!-- end body -->
+
+<div id="footer">
+<p>Whatever you do, work at it with all your heart, as working for the Lord,
+not for human masters. Colossians 3:23</p>
+<!-- Do not remove End Powered by <a href="http://www.freewebsitetemplates.com">Free Website Templates</a>-->
+</div>
+<!-- end footer -->
+
+<div id="counter">
+<!-- Begin Motigo Webstats counter code -->
+<a id="mws4827022" href="http://webstats.motigo.com/"><img width="80"
+height="15" border="0" alt="Free counter and web stats"
+src="http://m1.webstats.motigo.com/n80x15.gif?id=AEmnjg894KiJQJbOGNb1zrzGLp6g"
+/></a> 
+<script type="text/javascript"
+src="http://m1.webstats.motigo.com/c.js?id=4827022&amp;lang=EN&amp;i=3">
+</script>
+<!-- End Motigo Webstats counter code -->
+</div>
+</div>
+<!-- end wrapper -->
+</body>
+</html>

@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{software.html}, showsource, analytics{UA-60586426-1}
+= Jie Wang - Software
+
+- [http://dpc-screening.github.io DPC-Screening package].   
+- [publications/Isotropic_TV_ICML2014.pdf A Highly Scalable Parallel Algorithm for Isotropic Total Variation Models]. \n
+  Jie  Wang, Qingyang  Li, Sen  Yang, Wei  Fan, Peter Wonka, and Jieping  Ye. \n
+  ICML 2014. \[[software/FAD.zip {{<font color="red">FAD Code Download</font>}}]\]
+- An Edge-Weighted Centroidal Voronoi Tessellation Model for Image Segmentation.\n\
+  Jie Wang, Lili Ju, and Xiaoqiang Wang.\n\
+  IEEE Transactions on Image Processing. \[[software/EWCVT.zip {{<font color="red">EWCVT Code Download</font>}}]\]
+- VCells: Simple and Efficient Superpixels Using Edge-Weighted Centroidal Voronoi Tessellations \n
+  Jie Wang and Xiaoqiang Wang. \n
+  IEEE Transactions on Pattern Analysis and Machine Intelligence.  \[[software/VCells.zip {{<font color="red">VCells code Download</font>}}]\]
+
+  

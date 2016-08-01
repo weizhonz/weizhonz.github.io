@@ -1,0 +1,37 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Weizhong Zhang
+
+~~~
+{}{img_left}{images/portrait.jpg}{}{}{}
+Ph.D. Candidate \n\n
+[http://www.cad.zju.edu.cn/ State Key Lab of CAD&CG]\n
+[http://www.cs.zju.edu.cn/ Department of Computer Science and Technology, Zhejiang University]\n
+Advisors: [http://www.cad.zju.edu.cn/home/xiaofeihe/ Prof. Xiaofei He] and [http://www.cad.zju.edu.cn/home/dengcai/  Prof. Deng Cai]\n
+A visiting Student in University of Michigan, Ann Arbor \n
+Advisors: [http://www.yelab.net/ Prof. Jieping Ye] and [http://www-personal.umich.edu/~jwangumi/  Prof. Jie Wang]
+
+
+== Contact
+zhangweizhongzju@gmail.com, weizhonz@umich.edu
+~~~
+
+== About Me
+I am a fourth-year PhD student in the Department of Computer Science and Technology, Zhejiang University and also the State Key Laboratory of CAD & CG. I am under the supervision of [http://www.cad.zju.edu.cn/home/xiaofeihe/ Prof. Xiaofei He] and [http://www.cad.zju.edu.cn/home/dengcai/  Prof. Deng Cai]. My research interests include Large Scale Machine Learning, Convex Optimization and Matrix Analysis.\n
+
+Previously, I graduated with a bachelor's degree in  Mathematics and Applied Mathematics from Zhejiang University, China.\n 
+
+Now, I am a visiting student in the University of Michigan, Ann Arbor. And my advisors are  [http://www.yelab.net/ Prof. Jieping Ye] and [http://www-personal.umich.edu/~jwangumi/  Prof. Jie Wang].
+
+== Education 
+- 2015.10-present A visiting student in University of Michigan, Ann Arbor
+- 2012.09-present Ph.D. candidate in Computer Science, Zhejiang University
+- 2008.09-2012.06 B.S. in Mathematics and Applied Mathematics, Zhejiang University
+
+== Publications
+1. Weizhong Zhang, Bin Hong, Jieping Ye, Deng Cai, Xiaofei He, Jie Wang, Scaling Up Sparse Support Vector Machine by Simultaneous Feature and Sample Reduction. [http://128.84.21.199/abs/1607.06996 arxiv]. \n\n
+2. Weizhong Zhang, Lijun Zhang, Zhongming Jin, Rong Jin, Deng Cai, Xuelong Li, Ronghua Liang, Xiaofei He: Sparse Learning with Stochastic Composite Optimization. IEEE Transduction on Pattern Analysis and Machine Intelligence (TPAMI, DOI: 10.1109/TPAMI.2016.2578323). (accepted)\n\n
+3. Weizhong Zhang, Lijun Zhang, Rong Jin, Deng Cai, Xiaofei He: Accelerated Sparse Linear Regression via Random Projection. In Proceedings of the 30th AAAI Conference on Artificial Intelligence (AAAI 2016), pages 2337 - 2343, 2016. (Oral)\n\n
+4. Weizhong Zhang, Lijun Zhang, Yao Hu, Rong Jin, Deng Cai, Xiaofei He: Sparse Learning for Stochastic Composite Optimization. In Proceedings of the 28th AAAI Conference on Artificial Intelligence (AAAI 2014), pages 893 - 899, 2014.\n\n
+
+
+
