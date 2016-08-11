@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Welcome to Jie Wang's Homepage</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<div id="wrapper">
+<h1><a href="/"></a></h1>
+<ul id="nav">
+  <li class="b"><a href="./index.html">Home</a></li>
+  <li class="a"><a href="./research.html">Research</a></li>
+  <li class="d"><a href="./publication.html">Publications</a></li>
+  <li class="c"><a href="./Jie_Wang_CV.pdf" target="_blank">CV</a></li>
+</ul>
+
+<div id="body">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="inner">
+
+<table align="center" cellspacing="20" cellpadding="20" border="0" width="100%">
+  <tbody>
+    <tr><td>   </td></tr>
+    <tr>
+      <td><img src="images/portrait.jpg" width="190" height="220"
+        alt="My photo" class="center" align="middle" /></td>
+      <td><h1>Jie Wang </h1>
+        <br />
+        <span style="font-size: 12pt">Postdoctral Research Assistant</span> 
+
+        <p><a href="http://engineering.asu.edu/cidse/">Computer Science and
+        Engineering</a><br />
+        <a href="http://engineering.asu.edu/cidse/">School of Computing,
+        Informatics, and Decision System Engineering</a></p>
+
+        <p style="line-height:1em;font-size: 10pt"><a
+        href="http://www.biodesign.asu.edu/research/research-centers/evolutionary-medicine-and-informatics">Center
+        for Evolutionary Medicine and Informatics</a><br />
+        <a href="http://www.biodesign.asu.edu/">The Biodesign Institute</a></p>
+
+        <p><a href="www.asu.edu" style="font-size: 10pt">Arizona State
+        University</a><br />
+        </p>
+
+        <p><strong>Email</strong>:  <a
+        href="mailto:jiewangustc@gmail.com">jie.wang.ustc@asu.edu</a></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<!-- <div id="dividerx"><img src="images/divider_cut.gif" width="28" height="12" alt="" /></div> -->
+<hr />
+
+<div id="boxes">
+<h1>Education</h1>
+<ul style="line-height:1em;">
+  <li style="font-size: 12pt;line-height:2em;"><strong><span
+    style="font-size: 12pt"><span style="font-size: 10pt">Ph. D
+    </span></span></strong><span style="font-size: 12pt"><span
+    style="font-size: 10pt">in</span><strong><span
+    style="font-size: 10pt"></span></strong><span
+    style="font-size: 10pt">Scientific Computing, Florida State University,
+    2011</span></span></li>
+</ul>
+<ul style="line-height:1em;">
+  <li style="font-size: 12pt;line-height:2em;"><strong><span
+    style="font-size: 10pt">M.S. </span></strong><span
+    style="font-size: 10pt">in Electrical Engineering, Florida State
+    University, 2007</span></li>
+</ul>
+<ul>
+  <li style="font-size: 12pt;line-height:1em;"><span
+    style="font-size: 12pt"><span style="font-size: 10pt"><strong>B.S.</strong>
+    in Electronic Information Science and Technology, University of Science and
+    Technology of China, 2005</span></span><span
+  style="font-size: 10pt"></span></li>
+</ul>
+<hr />
+
+<h1>Research Interests</h1>
+<ul>
+  <li><span style="font-size: 10pt">Machine Learning and Data Mining</span></li>
+  <li style="font-size: 10pt">Nonlinear Optimization</li>
+  <li style="font-size: 10pt">Biomedical Informatics</li>
+  <li style="font-size: 10pt">Computer Vision and Pattern Recognition</li>
+  <li style="font-size: 10pt">Mathematical Biology</li>
+  <li style="font-size: 10pt">Numerical Partial Differential Equation and Its
+    Application</li>
+</ul>
+<br />
+<br />
+
+
+<div id="ProjectsDemo">
+<h2><a href="research.html#ProjectsDemo">Click to see projects demo and some
+animations</a></h2>
+</div>
+
+<div id="ProjectsDemo1">
+<h2><font color="black" size="2">The code of the paper "An Edge-Weighted Centroidal Voronoi Tessellation Model for Image Segmentation" is released. [<a href="./software/EWCVT.zip">Download</a>]</font></h2>
+</div>
+
+
+</div>
+<!-- end boxes -->
+<hr />
+
+<div id="CopyRight">
+Last modified: Mar 15, 2012. Copyright © Jie Wang, 2011 - 2012. All rights
+reserved. </div>
+</div>
+</div>
+</div>
+</div>
+<!-- end .inner -->
+</div>
+<!-- end body -->
+
+<div id="footer">
+<p>Whatever you do, work at it with all your heart, as working for the Lord,
+not for human masters. Colossians 3:23</p>
+<!-- Do not remove End Powered by <a href="http://www.freewebsitetemplates.com">Free Website Templates</a>-->
+</div>
+<!-- end footer -->
+
+<div id="counter">
+<!-- Begin Motigo Webstats counter code -->
+<a id="mws4827022" href="http://webstats.motigo.com/"><img width="80"
+height="15" border="0" alt="Free counter and web stats"
+src="http://m1.webstats.motigo.com/n80x15.gif?id=AEmnjg894KiJQJbOGNb1zrzGLp6g"
+/></a> 
+<script type="text/javascript"
+src="http://m1.webstats.motigo.com/c.js?id=4827022&amp;lang=EN&amp;i=3">
+</script>
+<!-- End Motigo Webstats counter code -->
+</div>
+</div>
+<!-- end wrapper -->
+</body>
+</html>

@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{BIOINF585.html}, showsource, analytics{UA-60586426-1}
+= BIOINF585: Machine Learning for Systems Biology & Clinical Informatics
+
+Welcome to BIOINF585, Fall 2015.
+
+== References
+- [http://www-bcf.usc.edu/~gareth/ISL/ An Introduction to Statistical Learning]
+- [http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage Bayesian Reasoning and Machine Learning]
+
+== Slides
+- [classes/BIOINF585/LogisticRegression.pdf Logistic Regression]
+- [classes/BIOINF585/SVM.pdf Support Vector Machine]
+- [classes/BIOINF585/Ensemble-I.pdf Ensemble Learning I]
+- [classes/BIOINF585/Ensemble-II.pdf Ensemble Learning II]
+- [classes/BIOINF585/Dimension-Reduction.pdf Dimension Reduction]
+
+== Lab
+- [classes/BIOINF585/Lab4.zip Lab 4]
+
+  

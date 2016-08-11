@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Jie Wang's Publication</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<div id="wrapper">
+<h1><a href="/"></a></h1>
+<ul id="nav">
+  <li class="b"><a href="./index.html">Home</a></li>
+  <li class="a"><a href="./research.html">Research</a></li>
+  <li class="d"><a href="./publication.html">Publications</a></li>
+  <li class="c"><a href="./Jie_Wang_CV.pdf" target="_blank">CV</a></li>
+</ul>
+
+<div id="body">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="inner">
+
+<table align="center" cellspacing="20" cellpadding="20" border="0" width="100%">
+  <tbody>
+    <tr><td>   </td></tr>
+    <tr>
+      <td><img src="images/portrait.jpg" width="190" height="220"
+        alt="My photo" class="center" align="middle" /></td>
+      <td><h1>Jie Wang </h1>
+        <br />
+        <span style="font-size: 12pt">Postdoctral Research Assistant</span> 
+
+        <p><a href="http://engineering.asu.edu/cidse/">Computer Science and
+        Engineering</a><br />
+        <a href="http://engineering.asu.edu/cidse/">School of Computing,
+        Informatics, and Decision System Engineering</a></p>
+
+        <p style="line-height:1em;font-size: 10pt"><a
+        href="http://www.biodesign.asu.edu/research/research-centers/evolutionary-medicine-and-informatics">Center
+        for Evolutionary Medicine and Informatics</a><br />
+        <a href="http://www.biodesign.asu.edu/">The Biodesign Institute</a></p>
+
+        <p><a href="www.asu.edu" style="font-size: 10pt">Arizona State
+        University</a><br />
+        </p>
+
+        <p><strong>Email</strong>:  <a
+        href="mailto:jiewangustc@gmail.com">jie.wang.2@asu.edu</a></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<!-- <div id="dividerx"><img src="images/divider_cut.gif" width="28" height="12" alt="" /></div> -->
+<hr />
+
+<div id="boxes">
+<h1>Publications</h1>
+<br />
+
+<ul id="PublicationsList">
+  <li class="listlevel1"><h2>Computer Vision</h2>
+    <ul>
+      <li class="listlevel2"><strong class="AuthorName">Jie Wang</strong> and
+        Xiaoqiang Wang, <strong class="Papers">VCells: Simple and Efficient
+        Superpixels Using Edge-Weighted Centroidal Voronoi
+        Tessellations</strong>, <em class="Journals">IEEE transactions on
+        Pattern Analysis and Machine Intelligence</em>, vol 34, no. 6, pp.1241-1247. 
+        <a href="./software/VCells.zip">[code]</a></li>
+      <li class="listlevel2"><strong class="AuthorName">Jie Wang</strong> Lili
+        Ju and Xiaoqiang Wang, <strong class="Papers">Image Segmentation using
+        Local Variation and Edge-Weighted Centroidal Voronoi
+        Tessellations</strong>, <em class="Journals">IEEE transactions on Image
+        Processing</em>, vol. 20, no. 11, pp. 3242 - 3256. <a
+        href="lvewcvt.pdf">[pdf]</a></li>
+      <li class="listlevel2"><strong class="AuthorName">Jie Wang</strong> and
+        Xiaoqiang Wang, <strong class="Papers">Edge - Weighted Centroidal
+        Voronoi Tessellations</strong>, <em class="Journals">Numerical
+        Mathematics: Theory, Methods and Applications</em>, vol. 3, no. 2, pp.
+        223 - 244, 2010.</li>
+      <li class="listlevel2"><strong class="AuthorName">Jie Wang</strong> Lili
+        Ju and Xiaoqiang Wang, <strong class="Papers">An Edge-Weighted
+        Centroidal Voronoi Tessellation Model for Image Segmentation</strong>,
+        <em class="Journals">IEEE transactions on Image Processing</em>, vol.
+        18, no. 8, pp. 1844 - 1858, 2009. <a href="./software/EWCVT.zip">[code]</a></li>
+    </ul>
+  </li>
+  <li class="listlevel1"><h2>Mathematical Biology</h2>
+    <ul>
+      <li class="listlevel2"><strong class="AuthorName">Jie Wang</strong> and
+        Xiaoqiang Wang, <strong class="Papers">Asymptotic Analysis of Phase
+        Field Models of Free Surfaces Driven by Surface Tension</strong>,
+        submitted to <em class="Journals">Journal of Mathematical Analysis and
+        Applications</em>.<a href="JMAA-S-11-00569.pdf">[pdf]</a></li>
+    </ul>
+  </li>
+  <li class="listlevel1"><h2>Financial Market</h2>
+    <ul>
+      <li class="listlevel2"><strong class="AuthorName">Jie Wang</strong>,
+        Chun-Xia Yang, Pei-Ling Zhou, Ying-Di Jin, Tao Zhou, and Bing-Hong
+        Wang, <strong class="Papers">Evolutionary Percolation Model of Stock
+        Market with Variable Agent Number</strong>, <em
+        class="Journals">Physical A</em>, vol. 354, pp. 505 - 517, 2005.</li>
+    </ul>
+  </li>
+  <li class="listlevel1"><h2>Complex Networks</h2>
+    <ul>
+      <li class="listlevel2">Yan Gang, Zhou Tao, <strong class="AuthorName">Jie
+        Wang</strong>, Fu Zhong-Qian, and Wang Bing-Hong, <strong
+        class="Papers">Epidemic Spread in Weighted Scale-free
+        Networks</strong>, <em class="Journals">Chinese Physics Letters</em>,
+        Vol.22, no. 2, pp. 510 - 513, 2005.</li>
+    </ul>
+  </li>
+</ul>
+</div>
+<!-- end boxes -->
+<hr />
+
+<div id="CopyRight">
+Last modified: Mar 15, 2012. Copyright © Jie Wang, 2011 - 2012. All rights
+reserved. </div>
+</div>
+</div>
+</div>
+</div>
+<!-- end .inner -->
+</div>
+<!-- end body -->
+
+<div id="footer">
+<p>Whatever you do, work at it with all your heart, as working for the Lord,
+not for human masters. Colossians 3:23</p>
+<!-- Do not remove End Powered by <a href="http://www.freewebsitetemplates.com">Free Website Templates</a>-->
+</div>
+<!-- end footer -->
+
+<div id="counter">
+<!-- Begin Motigo Webstats counter code -->
+<a id="mws4827022" href="http://webstats.motigo.com/"><img width="80"
+height="15" border="0" alt="Free counter and web stats"
+src="http://m1.webstats.motigo.com/n80x15.gif?id=AEmnjg894KiJQJbOGNb1zrzGLp6g"
+/></a> 
+<script type="text/javascript"
+src="http://m1.webstats.motigo.com/c.js?id=4827022&amp;lang=EN&amp;i=3">
+</script>
+<!-- End Motigo Webstats counter code -->
+</div>
+</div>
+<!-- end wrapper -->
+</body>
+</html>

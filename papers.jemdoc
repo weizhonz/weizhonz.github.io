@@ -1,0 +1,74 @@
+# jemdoc: menu{MENU}{papers.html}, showsource, analytics{UA-60586426-1}
+= Jie Wang - Papers
+
+~~~
+My [http://scholar.google.com/citations?user=OugG4dUAAAAJ&hl=en/ Google Scholar].
+~~~
+
+- New Asymptotic Analysis Method for Phase Field Models in Moving Boundary Problem with Surface Tension.\n
+	Jie Wang and Xiaoqiang Wang.\n
+	Discrete and Continuous Dynamical Systems - Series B, to appear.
+- Multi-Layer Feature Reduction for Tree Structured Group Lasso via Hierarchical Projection. {{<font color="red">Spotlight</font>}} \n
+	Jie Wang and Jieping Ye. \n
+	NIPS 2015.
+- Safe Screening for Multi-Task Feature Learning with Multiple Data Matrices. \n
+	Jie Wang and Jieping Ye. \n
+	ICML 2015.
+- Detecting genetic risk factors for Alzheimer’s disease in whole genome sequence data via Lasso screening. \n
+  Tao Yang, Jie Wang, Qian Sun, Derrek Paul Hibar, Neda Jahanshad, Li Liu, Yalin Wang, Liang Zhan, Paul Thompson, and Jieping Ye. \n 
+  IEEE International Symposium on Biomedical Imaging, 2015. 
+- Fused Lasso Screening Rules via the Monotonicity of Subdifferentials. \n
+  Jie Wang, Wei Fan, and Jieping Ye. \n
+  IEEE Transactions on Pattern Analysis and Machine Intelligence, to appear.
+- [publications/EDPP_JMLR.pdf Lasso Screening Rules via Dual Polytope Projection].   (Improved version of the one accepted by NIPS 2013)\n
+  Jie Wang, Peter Wonka, and Jieping Ye. \n
+  Journal of Machine Learning Research, 16(May):1063−1101, 2015. \[[http://dpc-screening.github.io {{<font color="red">Code Download</font>}}]\]
+- [http://arxiv.org/abs/1410.4210 Two-Layer Feature Reduction for Sparse-Group Lasso via Decomposition of Convex Sets]. {{<font color="red">Spotlight</font>}} \n   
+  Jie Wang and Jieping Ye. \n
+  NIPS 2014. \[[http://dpc-screening.github.io {{<font color="red">Code Download</font>}}]\]
+- [http://arxiv.org/abs/1307.4145 A Safe Screening Rule for Sparse Logistic Regression]. \n
+  Jie Wang, Jiayu Zhou, Jun Liu, Peter Wonka, and Jieping Ye. \n
+  NIPS 2014.
+- An Efficient Algorithm for Weak Hierarchical Lasso. {{<font color="red">KDD'14 best student paper award</font>}}\n  
+  Yashu Liu, Jie Wang, and Jieping Ye. \n
+  SIGKDD 2014.
+- [publications/svm_screening_ICML2014.pdf Scaling SVM and Least Absolute Deviations via Exact Data Reduction].\n
+  Jie Wang, Peter Wonka, and Jieping Ye.\n
+  ICML 2014.
+- [publications/Isotropic_TV_ICML2014.pdf A Highly Scalable Parallel Algorithm for Isotropic Total Variation Models]. \n
+  Jie  Wang, Qingyang  Li, Sen  Yang, Wei  Fan, Peter Wonka, and Jieping  Ye. \n
+  ICML 2014. \[[software/FAD.zip {{<font color="red">FAD Code Download</font>}}]\]
+- Safe Screening with Variational Inequalities and Its Application to Lasso. \n
+  Jun  Liu, Zheng  Zhao, Jie  Wang, and Jieping  Ye. \n
+  ICML 2014.
+- [http://arxiv.org/abs/1307.4156/ Efficient Mixed-Norm Regularization: Algorithms and Safe Screening Methods].\n
+  Jie Wang, Jun Liu, and Jieping Ye.\n
+  arXiv:1307.4156v1\n
+- [publications/DPP.pdf Lasso Screening Rules via Dual Polytope Projection]. \n
+  Jie Wang, Jiayu Zhou, and Peter Wonka, Jieping Ye. \n
+  NIPS 2013. {{<font color="red">Spotlight</font>}}
+- [publications/MTV.pdf An Efficient ADMM Algorithm for Multidimensional    Anisotropic Total Variation Regularization Problems]. \n
+  Sen Yang, Jie Wang, Wei Fan, Xiatian Zhang, Peter Wonka, and Jieping Ye. \n
+  SIGKDD 2013.
+- [publications/VCells.pdf VCells: Simple and Efficient Superpixels Using Edge-Weighted Centroidal Voronoi Tessellations].\n
+  Jie Wang, and Xiaoqiang Wang.\n
+  IEEE Transactions on Pattern Analysis and Machine Intelligence
+- [publications/LVEWCVT.pdf Image Segmentation Using Local Variation and
+Edge-Weighted Centroidal Voronoi Tessellations].\n
+  Jie Wang, Lili Ju, and Xiaoqiang Wang.\n
+  IEEE Transactions on Image Processing
+- [publications/EWCVT_t.pdf Edge-Weighted Centroidal Voronoi Tessellations].\n
+  Jie Wang, and Xiaoqiang Wang.\n
+  Numerical Mathematics: Theory, Methods and Applications
+- [publications/EWCVT.pdf An Edge-Weighted Centroidal Voronoi Tessellation
+Model for Image Segmentation].\n
+  Jie Wang, Lili Ju, and Xiaoqiang Wang\n
+  IEEE Transactions on Image Processing
+- Evolutionary percolation model of stock market with variable agent number.\n
+  Jie Wang, Chunxia Yang, Peiling Zhou, Yingdi Jin, Tao Zhou, and Binghong Wang.\n
+  Physica A
+- Epidemic Spread in Weighted Scale-Free Networks.\n
+  Gang Yan, Tao Zhou, Jie Wang, Zhongqian Fu, and Binghong Wang.\n
+  Chinese Physics Letters
+
+  
